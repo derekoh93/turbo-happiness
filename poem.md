@@ -1,4 +1,4 @@
-The Echoing Green
+# The Echoing Green
  
     The sun does arise,
     And make happy the skies;
@@ -9,7 +9,7 @@ The Echoing Green
     Sing louder around
     To the bells' cheerful sound;
     While our sports shall be seen
-    On the echoing Green.
+    On __the echoing Green__.
 
     Old John, with white hair,
     Does laugh away care,
@@ -20,7 +20,7 @@ The Echoing Green
     "Such, such were the joys
     When we all--girls and boys--
     In our youth-time were seen
-    On the echoing Green."
+    On __the echoing Green__."
 
     Till the little ones, weary,
     No more can be merry:
@@ -31,7 +31,7 @@ The Echoing Green
     Like birds in their nest,
     Are ready for rest,
     And sport no more seen
-    On the darkening green.
+    On **_the darkening green_**.
 
 --William Blake
 http://www.public-domain-poetry.com/william-blake/echoing-green-9158
