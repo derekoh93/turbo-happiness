@@ -1,6 +1,6 @@
 The Echoing Green
  
- The sun does arise,
+    The sun does arise,
     And make happy the skies;
     The merry bells ring
     To welcome the Spring;
